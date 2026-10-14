@@ -7,6 +7,9 @@ A Python backend for managing student records, built for the **EWB Edu Tech Inte
 
 > All sample data is **fictional**. Do not commit real student information.
 
+1.Demo video: https://drive.google.com/file/d/1NxAymznYSYxvZ8K7JBzDr4YLgYvjK3is/view?usp=sharing
+2.about the project:https://drive.google.com/file/d/1NxAymznYSYxvZ8K7JBzDr4YLgYvjK3is/view?usp=sharing
+
 ---
 
 ## 1. Prerequisites
