@@ -18,8 +18,8 @@ A Python backend for managing student records, built for the **EWB Edu Tech Inte
 ## 2. Installation
 
 ```bash
-git clone <your-repo-url>
-cd students-crud
+git clone https://github.com/Bitukumar123/student-crud.git
+cd student-crud
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
