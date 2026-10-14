@@ -1,0 +1,5 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic[email]>=2.6
+httpx>=0.27        # used by the optional Ollama extension and by the tests
+pytest>=8.0        # tests only
